@@ -7,7 +7,7 @@
 
 ## Requirements
 
-Wood Wind is playable using Kontakt 7.
+Wood Wind is playable using Kontakt 7: https://www.native-instruments.com/en/products/komplete/samplers/kontakt-7/
 
 ## Installation
 
