@@ -1,4 +1,4 @@
-WOOD WIND
+# Wood Wind
 
 **Wood Wind** is a Kontakt sample instrument of Japanese forest winds.
 
