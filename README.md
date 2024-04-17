@@ -16,7 +16,7 @@ To download Wood Wind, simply click on the green Code button above and select Do
 
 Double-clicking on the .nki file will open the instrument in Kontakt. 
 
-To add Wood Wind to your Kontakt library, [follow these instructions taken from Native Instruments' support website](https://support.native-instruments.com/hc/en-us/articles/6677339715741-How-to-Add-Non-Player-Libraries-to-Kontakt-7-s-Browser). 
+To add Wood Wind to your Kontakt library, follow these instructions taken from [Native Instruments' support website](https://support.native-instruments.com/hc/en-us/articles/6677339715741-How-to-Add-Non-Player-Libraries-to-Kontakt-7-s-Browser):
 
 > 1. Open KONTAKT 7.
 > 2. Make sure that you have selected the new Library Browser. You can toggle the view with the Library Browser button in KONTAKT's header.
